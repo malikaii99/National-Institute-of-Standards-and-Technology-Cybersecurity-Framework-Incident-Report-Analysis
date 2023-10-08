@@ -1,4 +1,4 @@
-# National-Institute-of-Standards-and-Technology-Cybersecurity-Framework-Incident-Report-Analysis
+# National Institute of Standards and Technology Cybersecurity Framework Incident-Report Analysis
 <h1>Description</h1>
 
 In this task, I leveraged the knowledge I have acquired regarding networks to conduct an analysis of a network incident. My analysis is based on the National Institute of Standards and Technology's Cybersecurity Framework (NIST CSF), and the outcome is the creation of an incident report. The NIST CSF is a voluntary framework that encompasses standards, guidelines, and best practices designed to effectively manage cybersecurity risks. For a quick review, please refer to the provided reading on NIST frameworks and the five functions integral to the NIST CSF framework.
